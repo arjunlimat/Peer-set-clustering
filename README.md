@@ -2,35 +2,69 @@
 Identify the clusters of peer set companies, based on the financial parameters reported by the companies. Determine the profile of clusters and identify the main parameters of companies belonging to same clusters.
 
 
-Data Analysis
+*Data Analysis
+
+
 Perform EDA
+
+
 Understand data distribution
+
+
 Correlation Analysis
 
-Data Pre-processing
+*Data Pre-processing
+
+
 Missing Value Imputations
+
+
 Normalization
+
+
 Dimension Reduction
 
 
 
-Clustering Techniques
+*Clustering Techniques
+
+
 Gaussian Mixture Models
+
+
 Hierarchical Clustering
+
+
 K-Means Clustering
+
+
 FCM Clustering
 
+
 Cluster Identification
+
+
 AIC, BIC
+
+
 Dendogram Analysis
+
 Sihouette Score
 
 
-Classification
+*Classification
+
+
 Decision tree
+
+
 GB Classifier
 
-Performance 
+*Performance 
+
+
 Decision tree analysis
+
+
 Classification Accuracy
 
